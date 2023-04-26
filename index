@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style (1).css">
+    <title>Exercício 2</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <h4 class="cabecalho_secundario">R E P O R T A G E M</h4>
+        <h1 class="cabecalho_primario">5 eventos esportivos que vão mudar de canal ou streaming em 2023</h1>
+        <p class="cabecalho_terciario_1"><strong>Allan Simon</strong></p>
+        <p class="cabecalho_terciario"><strong>Colunista do UOL</strong></p>
+        <p class="cabecalho_terciario">26/09/2022 04h00</p>
+    </header>
+
+    <main class="principal">
+       <div>
+        <p class="principal_texto">A temporada de 2023 vai trazer novidades no mundo da trasmissão esportiva no Brasil. Já há competições que têm confirmadas oficialmente mudanças de canal e/ou serviço de <a class="principal_texto_link">streaming</a> no ano que vem na televisão e na internet.</p>
+       </div>
+
+       <div>
+        <h3 class="principal_menu_1"><strong>Eventos que vão mudar de canal: </strong></h3>
+        <br>
+        <p class="principal_menu_item">1 - Copa Libertadores</p>
+        <br>
+        <p class="principal_menu_item">2 - Copa Sul-Americana</p>
+        <br>
+        <p class="principal_menu_item">3 - Recopa Sul-Americana</p>
+        <br>
+        <p class="principal_menu_item">4 - Brasileirão Feminino</p>
+       </div>
+       <div>
+        <h3 class="principal_menu_2">Eventos que podem mudar de canal</h3>
+        <br>
+        <p class="principal_menu_item">1 - Campeonato Carioca</p>
+        <br>
+        <p class="principal_menu_item">2 - Brasileirão Série B</p>
+       </div>
+
+    </main>
+
+    <footer class="rodape">
+        <p class="rodape_texto">© 1990 - 2022 UOL - O melhor conteúdo. Todos os direitos reservados - Segurança e privacidade</p>
+    </footer>
+</body>
+</html>
