@@ -44,5 +44,84 @@
     <footer class="rodape">
         <p class="rodape_texto">© 1990 - 2022 UOL - O melhor conteúdo. Todos os direitos reservados - Segurança e privacidade</p>
     </footer>
+    <style>
+    * {
+    padding: 0;
+    margin: 3px;
+    text-decoration: none;
+}
+
+.cabecalho {
+    margin-left: 30px;
+}
+
+.cabecalho_secundario {
+    color: green;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: small;
+}
+
+.cabecalho_primario {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    font-size: 36px;
+}
+
+.cabecalho_terciario_1 {
+    text-decoration: underline;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 15px;
+}
+
+.cabecalho_terciario {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.cabecalho_terciario, .cabecalho_terciario_1 {
+    margin-left: 50px;
+}
+
+.principal_texto {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.principal_texto_link {
+    text-decoration: underline;
+    color:green;
+}
+
+.principal_menu_1 {
+    border: 3px solid red;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.principal_menu_item {
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+}
+
+.principal_menu_2 {
+    border: 3px solid green;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.rodape {
+    text-align: center;
+    font-family: 'open sans', sans-serif;
+    font-size: 12px;
+    margin-top: 20px;
+}
+</style>
 </body>
 </html>
